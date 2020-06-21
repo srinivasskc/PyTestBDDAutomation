@@ -16,6 +16,18 @@ python get-pip.py
 Upgrade Pip:
 pip install -U pip
 
+## Run below commands:
+pip install -U virtualenv
+![image](https://user-images.githubusercontent.com/26836928/85217219-eae6df80-b3ab-11ea-80bb-2fc190312ef6.png)
+
+python -m virtualenv venv
+![image](https://user-images.githubusercontent.com/26836928/85217235-0d78f880-b3ac-11ea-8557-65753be89fd8.png)
+
+venv\Scripts\activate.bat
+![image](https://user-images.githubusercontent.com/26836928/85217244-24b7e600-b3ac-11ea-895c-f76f3331d6be.png)
+
+
+
 ## Installing PyTest
 
 Running below command from Terminal (CMD Line)
